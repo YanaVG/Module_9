@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	max-width: 1280px;
+	width: 100%;
+	height: auto;
+	background-color: #125958;
+	margin: 0 auto;
+	border: 3px solid white;
+	box-sizing: border-box;
+	color: white;
+	font-size: 40px; 
+	padding-top: 20px;
+}
+.row {
+	width: 100%;
+}
+.row .col {
+	height: 150px;
+	width: auto;
+	border: 4px solid white;
+	margin-bottom: 0;
+}
